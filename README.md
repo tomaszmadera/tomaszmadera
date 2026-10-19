@@ -11,13 +11,10 @@ I build native, local-first environments that make AI coding agents usable in re
 - Amber attention badge driven by terminal bell and OSC 9 signals from agents
 - Local-first persistence in SQLite (`better-sqlite3`): workspaces, chats, layouts survive restarts
 - Read-only Monaco editor and Markdown preview without leaving the agent context
-- Optional Kanban board through a Plane adapter
 
 <!-- Enable after the first NeKode release:
 **[Download the Windows installer](<installer-release-url>)**
 -->
-
-[![NeKode agent terminal session](https://raw.githubusercontent.com/tomaszmadera/NeKode/main/docs/images/nekode-1-terminal.webp)](https://github.com/tomaszmadera/NeKode)
 
 <!-- [DEMO GIF/WebM: attention badge firing, switching between agent sessions] -->
 
