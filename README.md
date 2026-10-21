@@ -22,11 +22,9 @@ I build native, local-first environments that make AI coding agents usable in re
 **[agent-harness](https://github.com/tomaszmadera/agent-harness)** - a reproducible multi-agent task runner with deterministic verification gates and task records.
 -->
 
-<!-- Enable when the gitgeist README is in English:
 ## Also in the lab
 
 - **[gitgeist](https://github.com/tomaszmadera/gitgeist)** - turns a Git repository into an emotional visual portrait.
--->
 
 ## How I work
 
