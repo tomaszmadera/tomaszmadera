@@ -34,4 +34,3 @@ I build native, local-first environments that make AI coding agents usable in re
 ## Elsewhere
 
 [quantumnoise.dev](https://quantumnoise.dev) · [X](https://x.com/quantumnoisedev)
-<!-- Add when the contact is set: · <contact> -->
