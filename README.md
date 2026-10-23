@@ -12,9 +12,7 @@ I build native, local-first environments that make AI coding agents usable in re
 - Local-first persistence in SQLite (`better-sqlite3`): workspaces, chats, layouts survive restarts
 - Read-only Monaco editor and Markdown preview without leaving the agent context
 
-<!-- Enable after the first NeKode release:
-**[Download the Windows installer](<installer-release-url>)**
--->
+**[Download the Windows installer](https://github.com/tomaszmadera/NeKode/releases/latest)**
 
 <!-- [DEMO GIF/WebM: attention badge firing, switching between agent sessions] -->
 
